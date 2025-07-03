@@ -11,10 +11,7 @@ const Navbar = () => {
 
   const navLinks = [
     { name: 'Home', href: '/' },
-    { name: 'Shop', href: '/shop' },
-    { name: 'Shirts', href: '/shop/shirts' },
-    { name: 'Pants', href: '/shop/pants' },
-    { name: 'Accessories', href: '/shop/accessories' },
+    { name: 'Products', href: '/products' },
     { name: 'About', href: '/about' },
     { name: 'Contact', href: '/contact' }
   ];
